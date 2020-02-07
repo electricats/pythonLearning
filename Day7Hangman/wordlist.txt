@@ -1,0 +1,5 @@
+apple
+bed
+banana
+cat
+word
